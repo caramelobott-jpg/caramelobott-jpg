@@ -52,15 +52,15 @@
 
 | Nome | O que faz |
 |---|---|
-| 📁 **Portfólio Pessoal** | Minha página com todos os projetos e conhecimentos — <a href="https://caramelobott-jpg.github.io/Portfolio-pessoal/" target="_blank">Acessar</a> |
-| 🔐 **Gerador de Senhas** | Gera senhas fortes e aleatórias com Python |
-| 🎯 **Jogo de Adivinhação** | Sorteio de número + dicas — jogo completo em Python |
+| 📁 **Portfólio Pessoal** | Minha página com todos os projetos — <a href="https://github.com/caramelobott-jpg/Portfolio-pessoal" target="_blank">Ver Projeto</a> |
+| 🔐 **Gerador de Senhas** | Gera senhas fortes e aleatórias com Python — <a href="https://github.com/caramelobott-jpg/Gerador-de-senhas" target="_blank">Ver Projeto</a> |
+| 🎯 **Jogo de Adivinhação** | Sorteio de número + dicas — jogo em Python — <a href="https://github.com/caramelobott-jpg/Jogo-de-Adivinha-o" target="_blank">Ver Projeto</a> |
 
 ---
 
 ### 🔗 ME ENCONTRE
 
-- 🌐 Página: `caramelobott-jpg.github.io/Portfolio-pessoal`
+- 🌐 Página: <a href="https://caramelobott-jpg.github.io/Portfolio-pessoal" target="_blank">caramelobott-jpg.github.io/Portfolio-pessoal</a>
 - 💻 GitHub: **@caramelobott-jpg**
 - 📧 Email: caramelobott@gmail.com
 
